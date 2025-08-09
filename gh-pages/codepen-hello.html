@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Open in CodePen: Hello World</title>
+    <style>body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;padding:24px}</style>
+  </head>
+  <body>
+    <p>Opening CodePen… If it doesn't open automatically, <button id="open">click here</button>.</p>
+    <script>
+      function openPen(){
+        var data = {
+          title: 'Hello World',
+          description: 'Minimal hello world prefilled from GitHub Pages.',
+          html: '<h1>Hello World</h1><p>Привет, мир!</p>',
+          css: 'body{font-family:system-ui;padding:2rem}',
+          js: 'console.log("Hello World from CodePen")'
+        };
+        var f = document.createElement('form');
+        f.method = 'POST';
+        f.action = 'https://codepen.io/pen/define';
+        f.target = '_blank';
+        var i = document.createElement('input');
+        i.type = 'hidden';
+        i.name = 'data';
+        i.value = JSON.stringify(data);
+        f.appendChild(i);
+        document.body.appendChild(f);
+        f.submit();
+      }
+      document.getElementById('open').addEventListener('click', openPen);
+      // Auto-open shortly after load
+      setTimeout(openPen, 200);
+    </script>
+  </body>
+</html>
+
+
