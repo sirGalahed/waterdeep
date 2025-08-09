@@ -1,0 +1,7 @@
+id,name_en,name_ru,description_en,description_ru,uses,skillTag,icon
+lockpicks,Lockpicks,Отмычки,Slender tools for silent doors,Тонкие инструменты для тихих дверей,4,deftness,/assets/icons/lockpicks.png
+bandage,Blessed Bandage,Священный бинт,Hushed prayer woven in linen,Тихая молитва, вплетённая в лён,3,lore,/assets/icons/bandage.png
+torch,Pitch Torch,Смоляной факел,Smoke and spark against old dark,Дым и искры против древней тьмы,3,wit,/assets/icons/torch.png
+rope,Hemp Rope,Пеньковая верёвка,Knotted hope over crumbling stone,Узловатая надежда на крошащемся камне,2,might,/assets/icons/rope.png
+herb,Whisperleaf,Шёпот-трава,Sage scent steadying the hand,Травяной дух, укрепляющий руку,2,charm,/assets/icons/herb.png
+

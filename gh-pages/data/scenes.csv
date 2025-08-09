@@ -1,0 +1,7 @@
+id,questId,background,desc_en,desc_ru
+s1,q1,/assets/backgrounds/tavern.svg,"Lamp-smoke curls; tankards sing; rumors ripple like rain on oak.","Дым ламп извивается; поют кружки; слухи рябят по дубу."
+s2,q1,/assets/backgrounds/alley.svg,"Moon-stitched alleys breathe secrets, cobbles keeping careful counsel.","Лунные переулки шепчут тайны, брусчатка хранит осторожный совет."
+s3,q1,/assets/backgrounds/sewers.svg,"Wet stones groan; iron rivulets mutter; lanterns blink like wary cats.","Сырые камни стонут; железные струйки бормочут; фонари моргают, как насторожённые кошки."
+s4,q1,/assets/backgrounds/market.svg,"Dawn gilds banners; hawkers chant; wind ferries whispers past steel.","Рассвет позолотил штандарты; глашатаи гудят; ветер несёт шёпот мимо стали."
+s5,q1,/assets/backgrounds/campfire.svg,"Amber embers cradle weary vows; night hums like a velvet harp.","Янтарные угли баюкают усталые клятвы; ночь поёт бархатной арфой."
+

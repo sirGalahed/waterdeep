@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <rect width="100%" height="100%" fill="#1f2a1f"/>
+  <circle cx="210" cy="210" r="110" fill="#c9d1c1"/>
+  <rect x="120" y="340" width="160" height="160" rx="18" fill="#2f3a2f"/>
+  <rect x="90" y="300" width="220" height="40" rx="8" fill="#3a4a3a"/>
+  <text x="200" y="560" text-anchor="middle" fill="#dfe9d7" font-size="22" font-family="serif">Tracker</text>
+</svg>
+

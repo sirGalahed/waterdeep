@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#4a2f1f"/>
+      <stop offset="1" stop-color="#2b1a12"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <rect x="100" y="200" width="1400" height="500" fill="#3a2518"/>
+  <circle cx="260" cy="260" r="60" fill="#e6c27a"/>
+  <rect x="140" y="420" width="300" height="120" rx="12" fill="#6e4a2f"/>
+  <rect x="1180" y="380" width="260" height="160" rx="12" fill="#6e4a2f"/>
+  <text x="800" y="820" text-anchor="middle" fill="#dbc3a2" font-size="48" font-family="serif">Yawning Portal</text>
+</svg>
+

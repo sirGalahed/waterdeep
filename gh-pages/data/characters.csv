@@ -1,0 +1,8 @@
+id,name_en,name_ru,portrait,might,deftness,wit,lore,charm
+ftr,Steel-Hearted Mercenary,Наёмник Стального Сердца,/assets/portraits/ftr.svg,5,3,3,2,2
+rog,Shadow Alley Footpad,Уличный Тать Теней,/assets/portraits/rog.svg,2,5,4,2,3
+wiz,Blackstaff Adept,Адепт Черного Посоха,/assets/portraits/wiz.svg,1,2,4,5,2
+clr,Ilmater Devotee,Послушник Илматера,/assets/portraits/clr.svg,3,2,3,4,3
+rng,North Ward Tracker,Следопыт Северного Квартала,/assets/portraits/rng.svg,3,4,3,2,3
+brd,Harper Balladeer,Гарпер-Балладарь,/assets/portraits/brd.svg,2,3,3,3,5
+

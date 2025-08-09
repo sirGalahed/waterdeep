@@ -1,0 +1,14 @@
+id,sceneId,label_en,label_ru,skillKey,cost,nextSceneId
+a1,s1,"Coax the barkeep for quieter truths","Выманить у трактирщика тихую правду",charm,1,s2
+a2,s1,"Read the faded bounty board with care","Внимательно прочитать потускневшие объявления",lore,1,s2
+a3,s1,"Shoulder through rowdy sellswords","Протолкнуться сквозь шумных наёмников",might,2,s2
+a4,s2,"Shadow the whisperer down the moonline","Проследить за шептуном по лунной кромке",deftness,2,s3
+a5,s2,"Unsnarl the trail of coin and rumor","Распутать след монеты и слуха",wit,1,s3
+a6,s2,"Press a concealed door in brick and ivy","Нащупать потайную дверь в кирпиче и плюще",might,1,s3
+a7,s3,"Balance across slime-slick pipes","Балансировать по скользким трубам",deftness,2,s4
+a8,s3,"Parse age-old guild marks","Разобрать древние знаки гильдии",lore,2,s4
+a9,s3,"Bully rats from the ladderway","Отогнать крыс от лестницы",might,1,s4
+a10,s4,"Bargain for passage and silence","Выторговать проход и молчание",charm,2,s5
+a11,s4,"Catch the cutpurse in the press","Поймать карманника в толпе",deftness,1,s5
+a12,s4,"Sense the pattern coiling beneath talk","Почувствовать узор под шелестом речей",wit,2,s5
+
